@@ -5,6 +5,7 @@ dein lacheln so gestellt, denn du stribst, wenn du mich siehst -<<
 
 ------
 
+```
 die nacht is graue, die tasche schwer
 verlass das hause, die strassen leer
 die luft bleibt weg, blick nicht zerück
@@ -47,4 +48,4 @@ anders zu sein als die anderen ist doch kein fehler
 
 frie un allein auf der suche suche suche 
 
-
+```
